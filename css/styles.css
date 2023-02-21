@@ -207,8 +207,7 @@ h2{
     
          
         text-align:center;
-        padding-bottom: 4%;
-        padding-top:0%;
+        padding: 5% 10%;
         background-color:#1d113a;
               
             
@@ -280,7 +279,7 @@ padding:0%;
 
     
     background-color: #13003F;
-    padding: 80px;
+    padding: 5% 10%;
 }
 
 .signup-button {
